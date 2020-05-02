@@ -1,0 +1,23 @@
+{
+    "cmake.sourceDirectory": "${workspaceRoot}/40.Combination-Sum-II/",
+    "files.associations": {
+        "deque": "cpp",
+        "functional": "cpp",
+        "map": "cpp",
+        "set": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "__functional_03": "cpp",
+        "iosfwd": "cpp",
+        "iterator": "cpp",
+        "__bit_reference": "cpp",
+        "algorithm": "cpp",
+        "bitset": "cpp",
+        "chrono": "cpp",
+        "memory_resource": "cpp",
+        "__locale": "cpp",
+        "__split_buffer": "cpp"
+    }
+    // "cmake.sourceDirectory": "${workspaceRoot}/20.valid-parentheses/"
+}
